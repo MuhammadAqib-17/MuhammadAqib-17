@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am a Full Stack Developer with hands-on experience in building, deploying, and maintaining production-ready web applications. I specialize in creating scalable, high-performance systems with a strong focus on clean UI/UX, reliability, and maintainability.<br><br>On the frontend, I work extensively with React.js, Next.js, Tailwind CSS, and component-based architectures to deliver responsive and user-friendly interfaces. I prioritize performance optimization, accessibility, and modern design principles to ensure smooth user experiences.<br><br>On the backend, I design and integrate scalable APIs and systems using tools like Prisma ORM, Supabase, MongoDB, Neon, and Redis. I also have experience with queue-based processing using BullMQ, enabling reliable background jobs and real-time workflows.<br><br>I am comfortable handling end-to-end ownership of features — from requirement analysis and UI design to backend logic, cloud deployment, and production releases. I regularly deploy applications on Vercel and Railway, ensuring stable and efficient cloud deployments.<br><br>I enjoy working on challenging problems, building clean architectures, and collaborating on impactful products. I am always eager to learn, improve, and contribute to meaningful projects.
+I am a <strong>Full Stack Developer</strong> with hands-on experience building and deploying 
+<strong>production-ready web applications</strong>, focusing on scalability, performance, and clean UI/UX.<br><br>
+
+I work with <strong>React.js, Next.js, and Tailwind CSS</strong> to build responsive interfaces, and develop scalable backends using 
+<strong>Prisma ORM, Supabase, MongoDB, Neon, Redis</strong>, and <strong>BullMQ</strong> for background processing.<br><br>
+
+I handle features end-to-end — from UI design and backend logic to 
+<strong>cloud deployments on Vercel and Railway</strong>. I enjoy solving complex problems, building clean architectures, and continuously learning.
+
 
 
 ## 🌐 Socials:
