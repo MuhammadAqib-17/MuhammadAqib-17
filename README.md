@@ -20,36 +20,8 @@ I handle features end-to-end — from UI design and backend logic to
 ![](https://nirzak-streak-stats.vercel.app/?user=MuhammadAqib-17&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAqib-17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-<div align="center">
-  <div style="
-    background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
-    padding: 24px 28px;
-    border-radius: 12px;
-    width: 100%;
-    max-width: 700px;
-  ">
-    <p style="
-      font-size: 20px;
-      font-style: italic;
-      color: #7fffd4;
-      margin: 0;
-      text-align: left;
-    ">
-      “Talk is cheap. Show me the code.”
-    </p>
-    <p style="
-      margin-top: 12px;
-      font-size: 14px;
-      color: #ff4d8d;
-      text-align: right;
-    ">
-      — Linus Torvalds
-    </p>
-  </div>
-</div>
----
-
+### ✍️ Random Dev Quote
+“Talk is cheap. Show me the code.” – Linus Torvalds
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MuhammadAqib-17&limit=5&theme=dark&combine_all_yearly_contributions=true)
