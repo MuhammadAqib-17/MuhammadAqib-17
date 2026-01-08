@@ -21,9 +21,7 @@ I handle features end-to-end — from UI design and backend logic to
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAqib-17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
 <div align="center">
-
   <div style="
     background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
     padding: 24px 28px;
@@ -40,7 +38,6 @@ I handle features end-to-end — from UI design and backend logic to
     ">
       “Talk is cheap. Show me the code.”
     </p>
-
     <p style="
       margin-top: 12px;
       font-size: 14px;
@@ -50,7 +47,6 @@ I handle features end-to-end — from UI design and backend logic to
       — Linus Torvalds
     </p>
   </div>
-
 </div>
 ---
 
