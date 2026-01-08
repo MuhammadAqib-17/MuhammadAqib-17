@@ -21,7 +21,8 @@ I handle features end-to-end — from UI design and backend logic to
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAqib-17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-“Talk is cheap. Show me the code.” – Linus Torvalds
+> 💻 **Talk is cheap. Show me the code.**  
+> <sub>— Linus Torvalds</sub>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MuhammadAqib-17&limit=5&theme=dark&combine_all_yearly_contributions=true)
