@@ -22,15 +22,36 @@ I handle features end-to-end — from UI design and backend logic to
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Developer%20Mindset-%F0%9F%94%A5-black?style=for-the-badge" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>“Talk is cheap. Show me the code.”</strong><br/>
-  <em>— Linus Torvalds</em>
-</p>
+  <div style="
+    background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+    padding: 24px 28px;
+    border-radius: 12px;
+    width: 100%;
+    max-width: 700px;
+  ">
+    <p style="
+      font-size: 20px;
+      font-style: italic;
+      color: #7fffd4;
+      margin: 0;
+      text-align: left;
+    ">
+      “Talk is cheap. Show me the code.”
+    </p>
 
+    <p style="
+      margin-top: 12px;
+      font-size: 14px;
+      color: #ff4d8d;
+      text-align: right;
+    ">
+      — Linus Torvalds
+    </p>
+  </div>
+
+</div>
 ---
 
 
