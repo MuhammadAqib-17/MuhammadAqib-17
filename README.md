@@ -20,11 +20,18 @@ I handle features end-to-end — from UI design and backend logic to
 ![](https://nirzak-streak-stats.vercel.app/?user=MuhammadAqib-17&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAqib-17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-<p >
-  <i>“Talk is cheap. Show me the code.”</i><br/>
-  <b>— Linus Torvalds</b>
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer%20Mindset-%F0%9F%94%A5-black?style=for-the-badge" />
 </p>
+
+<p align="center">
+  <strong>“Talk is cheap. Show me the code.”</strong><br/>
+  <em>— Linus Torvalds</em>
+</p>
+
+---
 
 
 ### 🔝 Top Contributed Repo
